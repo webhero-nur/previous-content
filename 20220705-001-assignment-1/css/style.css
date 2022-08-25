@@ -1,0 +1,194 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    text-align: justify;
+}
+
+#header-part {
+    width: 90%;
+    margin: 50px 5% 0;
+    margin-bottom: 100px;
+    display: flex;
+}
+
+#header-text {
+    padding: 0px 5%;
+    margin-top: 150px;
+}
+
+#header-title {
+    border-left: 5px solid orangered;
+    padding-left: 10px;
+}
+
+#header-title h1 {
+    font-size: 75px;
+    margin: 0;
+    padding: 0;
+}
+
+.tomato-color {
+    color: tomato;
+}
+
+.header-paragraph {
+    margin: 30px 0;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.button-design {
+    text-decoration: none;
+    margin-top: 15px;
+    padding: 15px 50px;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#header-img {
+    display: block;
+    width: 95%;
+    margin: auto;
+}
+
+#my-mission-in-2022 {
+    width: 90%;
+    margin: 0 5% 100px;
+}
+
+#flexbox-card {
+    display: flex;
+}
+
+#my-mission-title {
+    font-weight: 900;
+    font-size: 55px;
+    text-align: center;
+}
+
+.darkblue-color {
+    color: darkblue;
+}
+
+#mission-card {
+    background-color: #ecf5ff;
+}
+
+#vission-card {
+    background-color: #f8eaec;
+}
+
+#goals-card {
+    background-color: #fafae0;
+}
+
+.one-third-width {
+    width: 30%;
+    margin: 1.5%;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.card-img-width {
+    width: 35%;
+}
+
+.card-title {
+    font-size: 25px;
+}
+
+#develop-without-limits {
+    width: 90%;
+    margin: 0 5% 100px;
+    display: flex;
+}
+
+#develop-without-limits h2 {
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.img-with-acknowledgement {
+    display: block;
+    width: 95%;
+    margin: auto;
+}
+
+.two-fifth-width {
+    width: 36%;
+    margin: 0 2%;
+}
+
+.three-fifth-width {
+    width: 56%;
+    margin: 0 2%;
+}
+
+#develop-instruction {
+    padding: 100px 0 0 50px;
+}
+
+#develop-instruction p {
+    margin: 50px 0;
+}
+
+#know-our-global-community {
+    width: 90%;
+    margin: 0 5% 100px;
+    display: flex;
+}
+
+#know-our-global-community h2 {
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+#global-community-instruction {
+    margin-top: 50px;
+    padding: 100px 50px 0 0;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding: 20px 0;
+}
+
+footer h3 {
+    font-size: 35px;
+}
+
+#android-project {
+    width: 90%;
+    margin: 0 5% 100px;
+}
+
+#android-project h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+#project-img-part {
+    display: flex;
+    margin: 35px 0;
+}
+
+.one-fourth-width {
+    width: 20%;
+    margin: 6.5%;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.img-shadow {
+    box-shadow: 20px 20px 50px lightgray;
+}
